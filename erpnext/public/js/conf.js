@@ -7,7 +7,7 @@ frappe.provide('erpnext');
 $(document).bind('toolbar_setup', function() {
 	frappe.app.name = "ERPNext";
 
-	$('.navbar-home').html('ERPNext');
+	$('.navbar-home').html("<img src='/files/vlinku.jpg' style='max-width:350px; height:25px'>");
 
 	$('[data-link="docs"]').attr("href", "https://manual.erpnext.com")
 });
