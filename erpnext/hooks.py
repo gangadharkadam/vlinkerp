@@ -1,8 +1,8 @@
 from __future__ import unicode_literals
 app_name = "erpnext"
-app_title = "ERPNext"
-app_publisher = "Frappe Technologies Pvt. Ltd. and Contributors"
-app_description = "Open Source Enterprise Resource Planning for Small and Midsized Organizations"
+app_title = "VlinkU"
+app_publisher = "VlinkU Solutions Inc."
+app_description = "VlinkU Proposal for Customer Contact Solution"
 app_icon = "icon-th"
 app_color = "#e74c3c"
 app_version = "5.0.20"
@@ -95,8 +95,8 @@ scheduler_events = {
 }
 
 default_mail_footer = """<div style="padding: 15px; text-align: center;">
-	<a href="https://erpnext.com?source=via_email_footer" target="_blank" style="color: #8d99a6;">
-		Sent via ERPNext
+	<a href="http://www.vlinku.com/?source=via_email_footer" target="_blank" style="color: #8d99a6;">
+		Sent via VlinkU
 	</a>
 </div>"""
 
